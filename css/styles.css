@@ -50,11 +50,13 @@
   text-size-adjust: 30px;
 } */
 
+.well {
+  color: black;
+}
+
 body {
   font-family: sans-serif;
   font-size: 15px;
-  color: azure;
-
   background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("https://cdn.reefs.com/blog/wp-content/uploads/2015/09/Zen-sedona-acupuncture.jpg");
   /* background-image: url(https://cdn.reefs.com/blog/wp-content/uploads/2015/09/Zen-sedona-acupuncture.jpg) max-width; */
   
