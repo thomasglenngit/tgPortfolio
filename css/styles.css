@@ -1,13 +1,13 @@
 .panel {
   margin-top: 100px;
   margin: 2px;
-  border: 2px solid black;
+  border: 1px solid black;
   padding: 2px;
   float: top;
   background-color: lavender;
   height: 190px;
   color: black;
-
+  width: 100%;
 }
 
 .panel h1 {
@@ -55,6 +55,7 @@
 .well {
   color: black;
   background-color: lavender;
+  border: 1px solid black;
 }
 
 h3 {
@@ -70,6 +71,8 @@ body {
   font-size: 15px;
   background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("https://cdn.reefs.com/blog/wp-content/uploads/2015/09/Zen-sedona-acupuncture.jpg");
   /* background-image: url(https://cdn.reefs.com/blog/wp-content/uploads/2015/09/Zen-sedona-acupuncture.jpg) max-width; */
-  
+}
 
+span {
+  font-size: 20px;
 }
