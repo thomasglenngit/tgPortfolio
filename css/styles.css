@@ -49,38 +49,11 @@
   /* width: %; */
 }
 
-
-/* .banner {
-  font-size: 100px;
-  font-weight: bold;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: rgb(218, 171, 206);
-  margin-bottom: 30px;
-  padding-right: 30px;
-  padding-left: 30px;
-  border-radius: 6px;
-  max-width: 100%;
-} */
-
-
-
-/* 
-.col-md-6 p {
-  text-size-adjust: 30px;
-} */
-
 .well {
   color: black;
   background-color: lavender;
   border: 1px solid black;
   
-}
-
-.well.sidebar {
-  float: right;
 }
 
 h3 {
